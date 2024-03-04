@@ -44,6 +44,7 @@
 		3EFB6B582B95D08100BDB678 /* DataStructureWithSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DataStructureWithSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EFB6B5C2B95D08100BDB678 /* DataStructureWithSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStructureWithSwiftUITests.swift; sourceTree = "<group>"; };
 		3EFB6B5E2B95D08100BDB678 /* DataStructureWithSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStructureWithSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3EFB6B6D2B95D11800BDB678 /* Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Sorting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +131,7 @@
 		3EFB6B6B2B95D09000BDB678 /* Sorting */ = {
 			isa = PBXGroup;
 			children = (
+				3EFB6B6D2B95D11800BDB678 /* Sorting.playground */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";
